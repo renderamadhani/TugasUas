@@ -1,5 +1,6 @@
 # TugasUas
 Tugas ini dibuat guna memenuhi ujian akhir semester 1
+
 Nama		: Muhammad Rende Ramadhani
 
 NIM		: 312010277
